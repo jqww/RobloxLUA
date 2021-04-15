@@ -1,3 +1,4 @@
+--Made by ゼロツー#4276
 local ScreenGui = Instance.new("ScreenGui")
 local open = Instance.new("TextButton")
 local Frame = Instance.new("ImageLabel")
